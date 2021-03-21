@@ -1,4 +1,4 @@
-FROM tom333/buildozer_gh_actions:latest
+FROM tom333/buildozer_actions:latest
 # See https://github.com/kivy/buildozer/blob/master/Dockerfile
 
 # Buildozer will be installed in entrypoint.py
